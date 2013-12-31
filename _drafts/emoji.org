@@ -1,0 +1,44 @@
+* How does Emoji work
+*** Unicode 6.0
+*** monochrome vs color
+* Android
+*** Monochrome Emoji
+    Jelly Bean: http://www.android.com/about/jelly-bean/
+*** Color Emoji with Kitkat
+    http://www.android.com/versions/kit-kat-4-4/
+*** Emoji keyboard in Kitkat
+*** Browser problems
+    * Firefox: https://bugzilla.mozilla.org/show_bug.cgi?id=944872
+    * Chrome: https://code.google.com/p/chromium/issues/detail?id=324187
+* Apple products
+*** Apple Color Emoji font
+    * iOS 5: http://support.apple.com/kb/ht4980
+    * Mac OS X 10.7: http://support.apple.com/kb/ht5098
+*** Emoji input on iOS
+    Activate keyboard first?
+*** Emoji input on Mac OS X 10.9
+*** Chrome problems
+    https://code.google.com/p/chromium/issues/detail?id=62435
+*** Safari and Firefox work
+* Windows
+*** Emoji Windows Phone
+*** Emoji input Phone
+*** Color Emoji Windows 8
+*** Emoji input desktop
+    http://blog.getemoji.com/emoji-keyboard-windows
+*** Monochrome Emoji font Windows 8/7
+    Segeo UI: https://en.wikipedia.org/wiki/Segoe_UI#Segoe_UI
+*** Browser problems
+    * Firefox: https://bugzilla.mozilla.org/show_bug.cgi?id=889401
+    * Chrome: https://code.google.com/p/chromium/issues/detail?id=151840
+* Ubuntu
+*** Missing support after installation
+*** Packages to show monochrome Emoji
+    * Ubuntu: http://packages.ubuntu.com/search?keywords=ttf-ancient-fonts
+*** All browsers work
+    * Firefox: immediately
+    * Chromium/Chrome: after restarting
+*** Emoji input?
+* Firefox OS
+*** Missing Emoji support
+    https://bugzilla.mozilla.org/show_bug.cgi?id=939280
