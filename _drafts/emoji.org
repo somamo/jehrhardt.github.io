@@ -9,7 +9,7 @@
 *** Emoji keyboard in Kitkat
 *** Browser problems
     * Firefox: https://bugzilla.mozilla.org/show_bug.cgi?id=944872
-    * Chrome: https://code.google.com/p/chromium/issues/detail?id=324187
+    * Chrome: https://code.google.com/p/chromium/issues/detail?id=290583
 * Apple products
 *** Apple Color Emoji font
     * iOS 5: http://support.apple.com/kb/ht4980
